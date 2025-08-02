@@ -1,0 +1,15 @@
+﻿# Core dependencies for Python Backend Generator
+requests>=2.31.0
+pyyaml>=6.0.1
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Optional: Enhanced CLI experience
+click>=8.1.7
+rich>=13.7.0
+colorama>=0.4.6
+
+# Optional: Code quality tools
+black>=23.12.1
+flake8>=7.0.0
+pytest>=7.4.3
