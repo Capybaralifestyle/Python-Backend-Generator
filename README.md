@@ -32,7 +32,7 @@ It’s perfect for rapid prototyping, MVPs, bootstrapping, learning, and hackath
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone https://github.com/Capybaralifestyle/Python-Backend-Generator.git
 cd python-backend-generator
 
 # 2. Setup Python environment (optional but recommended)
